@@ -1,0 +1,30 @@
+First of all, I really would like to thank you 
+for giving me this opportunity and I really 
+appreciate for your time.  
+I am excited to be here. 
+I have been in IT industry for 5 years . 
+Within that time I have gained domain knowledge 
+in different sectors such as Logistics and Retail.
+After spending a lot of time in the Agile environment, 
+I have a strong understanding of the Software Development 
+and Testing Lifecycle and have become proficient with 
+testing frameworks, automation tools and agile practices.
+Currently, I am working as an QA Automation Engineer 
+within my team. My main responsibilities are to design, 
+develop and maintain the Test Automation Framework 
+that verifies user stories and system requirements. 
+For that purpose I am implementing functional, 
+smoke and regression tests.
+I have tested Web Based applications by implementing 
+for Front-end testing, Selenium webDriver, Junit, 
+TestNG, Cucumber BDD framework using Java programing language.
+For Back-End Testing: JDBC for dataBase testing, 
+Rest-Assured for API testing.
+For manual verification I use Postman and Oracle DB.
+As a person, I consider myself a positive person,
+a cross-functional team member, detail oriented 
+and Quick learner at my professional life. 
+I feel very comfortable adapting to new environments. 
+I’m looking for a new challenge and taking my career 
+to the next level, with a competitive company like yours. 
+That's pretty much about me.
